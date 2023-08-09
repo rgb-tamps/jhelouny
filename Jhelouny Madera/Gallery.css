@@ -1,0 +1,126 @@
+nav {
+    background:rgb(43, 41, 41);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh; 
+    padding: 0  8%;
+    }
+    ul {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+    
+    }
+    li {
+        list-style: none;
+    }
+
+
+
+
+
+
+
+
+.container{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+   
+    
+}
+body{
+    background: rgb(255, 255, 255);
+    background-image: url("./view.jpg");
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+
+    
+.card {
+   
+    height: 45vh;
+    width: 300px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.card-image {
+    background-color: #ffffff;
+    height: 380px;
+    margin-bottom: 10px;
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+    text-decoration: none;
+
+   
+}
+.pic-1 {
+background-image: url(./self1.jpg);
+}.pic-2 {
+    background-image: url(./like2.jpg);
+}.pic-3 {
+    background-image: url(./self2.jpg);
+}.pic-4 {
+    background-image: url(./sidepic.jpg);
+}.pic-5 {
+    background-image: url(./self3.jpg);
+}.pic-6 {
+    background-image: url(./sidepic4.jpg);
+}.pic-7 {
+    background-image: url(./self6.jpg);
+}.pic-8 {
+   background-image: url(./seeu.jpg);                   
+}.pic-9 {
+   background-image: url(./self8.jpg);
+}.pic-10 {
+    background-image: url(./seeu2.jpg);
+}.pic-11 {
+    background-image: url(./self7.jpg);
+}.pic-12 {
+   background-image: url(./seeu3.jpg);
+}.pic-13 {
+    background-image: url(./sidepic2.jpg);
+}.pic-14 {
+background-image: url(./winner.jpg);
+}.pic-15 {
+    background-image: url(./sidepic3.jpg);
+}.pic-16 {
+    background-image: url(./puppy.jpg);
+}.pic-17 {
+    background-image: url(./sidepic7.jpg);
+}.pic-18 {
+    background-image: url(./puppy2.jpg);
+}.pic-19 {
+   background-image: url(./sidepic5.jpg);
+}.pic-20 {
+    background-image: url(./big\ racket.jpg);
+}.pic-21 {
+    background-image: url(./sidepic6.jpg);
+}.pic-22 {
+    background-image: url(3.2.jpg);
+}.pic-23 {
+    background-image: url(./like4.jpg);
+}.pic-24 {
+    background-image: url(3.jpg);
+}
+.pic-25 {
+    background-image: url(./like3.jpg);
+}.pic-26 {
+    background-image: url(./winner2.jpg);
+}.pic-27 {
+    background-image: url(./like.jpg);
+}.pic-28 {
+    background-image: url(./draw.jpg);
+}.pic-29 {
+    background-image: url(./baragatan.jpg);
+}.pic-30 {
+    background-image: url(./mmmmmmm.jpg);
+}

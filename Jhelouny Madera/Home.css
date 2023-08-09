@@ -1,0 +1,57 @@
+nav {
+    background:rgb(43, 41, 41);
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh; 
+    padding: 0  8%;
+    }
+    ul {
+        display: flex;
+        gap: 1rem;
+        align-items: center;
+ 
+    
+    }
+    li {
+        list-style: none;
+    
+    }
+
+    a {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+     }
+
+
+    
+    body{
+        background: rgb(255, 255, 255);
+        background-image: url("./mmmmmmm.jpg");
+    }
+
+    
+    .section2_content {
+        display: flex ;
+        gap: 10rem ;
+
+    }
+    
+
+    .section2 .service_middle {
+        background-color: rgb(128, 124, 124);
+        color: rgb(255, 255, 255) ;
+        height: 100vh;
+        width: 1500px;
+        text-align: center;
+        align-items: center;
+    }
+    
+    
+    
+    .section2 .service p {
+        padding: 1rem ;
+    }
+    
+ 

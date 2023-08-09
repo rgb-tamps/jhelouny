@@ -1,0 +1,230 @@
+{
+box-sizing: border-box;
+padding: 0 ;
+margin: 0 ;
+border:  none ;
+font-family: "segoe UI",tahoma,geneva,verdana,sans-serif;
+}
+
+nav {
+background:rgb(43, 41, 41);
+color: rgb(255, 255, 255);
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 10vh; 
+padding: 0  8%;
+}
+ul {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+
+}
+li {
+    list-style: none;
+  
+}
+a {
+    text-decoration: none;
+    color: rgb(161, 218, 144);
+ }
+   .parent_landing {
+    height: 90vh; 
+    background-image: url("mmmmmmm.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+    display: flex;
+   }
+.parent_landing .content { 
+    color:black;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    
+}
+.parent_landing .title {
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    
+}
+.parent_landing p {
+    font-size: 1rem; 
+    color:rgb(255, 255, 255);
+    text-align: left;
+}
+
+
+.parent_landing .left_side {
+    width:45%;
+}
+.left_side .buttons {
+    display: flex; 
+    padding: 1rem 0;
+}
+.left_side .btn1 {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    cursor: pointer;
+    background-color: rgb(54, 48, 48);
+    border-radius: 5px ;
+    color: white;
+}
+.left_side .btn2 {
+    padding: 0.5rem 1rem; 
+    margin: 0.5rem;
+    cursor: pointer;
+    background: none;
+    border-radius: 3px;
+    border: 3px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.section2 {
+    height: 300vh;
+    width: 100% ;
+    margin: 0 auto;
+    padding: 2rem 0;
+}
+
+.secton2_title {
+    text-align: center;
+    margin: 0 0 6rem 0;
+    font-size: 2rem;
+}
+
+.section2_content {
+    display: flex ;
+    gap: 4rem ;
+}
+
+.section2 .service {
+    background-color:rgb(128, 124, 124);
+    color:rgb(255, 255, 255) ;
+    border-radius:13px ;
+    padding: 1rem ;
+    text-align: center ;
+    max-width: 30% ;
+    min-width: 29 ;
+    cursor: default ; 
+    transition: all 0.3s ease-in-out;
+    box-shadow: -9px 12px 24px   rgba(43, 41, 41);
+}
+
+.section2 .service_middle {
+    background-color: rgb(128, 124, 124);
+    color: rgb(255, 255, 255) ;
+}
+
+
+
+.section2 .service h1 {
+    padding-bottom: 1.2rem ;
+    width: 80% ;
+    margin: 0 auto ;
+    border-bottom:1px solid rgb(255, 255, 255) ;
+}
+
+
+.section2 .service_middle h1 {
+    border-bottom: 1px solid rgb(255, 255, 255) ;
+}
+
+.section2 .service p {
+    padding: 1rem ;
+}
+
+.section2 .service button { 
+    padding: 00.5rem 5rem;
+    cursor: pointer ;
+    font-size: 1rem ; 
+    margin: 1.5rem ;
+    border-radius: 5px ;
+    background-color:rgb(255, 255, 255) ;
+    color: rgb(0, 0, 0) ;
+    transition: all 0.3s ease-in-out ;
+}
+
+.Home {
+    height : 90vh; 
+    background-image : url("./mmmmmmm.jpg");
+    background-repeat : no-repeat;
+    background-size : cover;
+    background-position : center center;
+    background-attachment: fixed;
+    display: flex;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+}
+
+.Sign in {
+    height : 90vh; 
+    background-image : url("./mmmmmmm.jpg");
+    background-repeat : no-repeat;
+    background-size : cover;
+    background-position : center center;
+    background-attachment: fixed;
+    display: flex;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+button {
+    padding: 0.5rem 7rem;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.register {
+    font-size: 0.7rem;
+    width: max-content;
+    margin: 0 auto;
+    color: black;
+    display: flex;
+}
+
+.register a {
+    color:rgb(209, 45, 0);
+    font-weight: bold ;
+    font-size: 0.7rem;
+}
+
+.image-container {
+    width: 50%;
+    height: 70%;
+    border:2px solid #ccc;
+    padding: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
